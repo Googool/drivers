@@ -15,7 +15,7 @@ Some of the drivers are from a school course on *digital- and microprocessor tec
 ### Tools and Resources
 Explain what to download and which tools are used to debug the code.?????
 
-## I2C driver (synchronous)
+## I2C
 > explain the `i2c_init` function.
 
 > explain the `i2c_start`function.
@@ -34,5 +34,5 @@ Explain what to download and which tools are used to debug the code.?????
 
 > basic example on how to use the `driver`.
 
-## SPI driver 
+## SPI
 > work in progress
