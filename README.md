@@ -1,4 +1,4 @@
-# Drivers for the PIC18F26K22® Family of Microcontrollers <img align="right" width="100" height="100" src="/images/microchip.png">
+# Drivers for the PIC18F26K22® Family of Microcontrollers <img align="right" width="50" height="50" src="/images/microchip.png">
 
 <p align="left">
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Googool/PaperJDA?style=flat-square">
