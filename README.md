@@ -1,2 +1,1 @@
-# pic-drivers
-Drivers for the PIC Microcontrollers using the MPLAB XC8 Compiler.
+# Drivers for the PIC® and AVR® Microcontrollers
