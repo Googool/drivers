@@ -1,4 +1,4 @@
-# Drivers for the PIC18(L)F2X/4XK22® Family of Microcontrollers
+# Drivers for the PIC18(L)F2X/4XK22® Family of Microcontrollers <img align="right" width="75" height="75" src="/images/microchip.png">
 
 <p align="left">
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Googool/PaperJDA?style=flat-square">
@@ -25,5 +25,5 @@
 
 > basic example on how to use the `driver`.
 
-## SPI driver <img align="right" width="50" height="50" src="/images/microchip.png">
+## SPI driver 
 > work in progress
