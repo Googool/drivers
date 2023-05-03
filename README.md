@@ -10,8 +10,6 @@ Repository contains a small collection of drivers for the PIC18(L)F2X/4XK22® Fa
 
 *I do not know if these drivers will work on the newer iterations of the microcontroller! The drivers has currently only been tested on the [PIC18F26K22](https://www.microchip.com/en-us/product/PIC18F26K22). I cannot confirm if this is an issue as I haven't tested it yet.*
 
-Some of the drivers are from a school course on *digital- and microprocessor technology*. AND????
-
 ### Tools and Resources
 Explain what to download and which tools are used to debug the code.?????
 
