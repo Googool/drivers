@@ -14,23 +14,7 @@ Repository contains a small collection of drivers for the PIC18(L)F2X/4XK22® Fa
 *To be determined.*
 
 ## I2C
-> explain the `i2c_init` function.
-
-> explain the `i2c_start`function.
-
-> explain the `i2c_stop` function.
-
-> explain the `i2c_write` function.
-
-> explain the `i2c_read_ack` function.
-
-> explain the `i2c_read_nack` function.
-
-> explain the `i2c_write_byte` function.
-
-> explain the `i2c_read_byte` function.
-
-> basic example on how to use the `driver`.
+> Basic example on how to use the `driver`.
 
 ## SPI
-> work in progress
+> Work in progress.
