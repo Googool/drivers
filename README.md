@@ -8,7 +8,7 @@
 
 Repository contains a small collection of drivers for the PIC18(L)F2X/4XK22® Family of Microcontrollers. All of the drivers are coded in the [MPLAB® X IDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide) whilst using the [XC8 Compiler](https://www.microchip.com/en-us/education/developer-help/learn-tools-software/mcu-mpu/compilers/xc8) from [Microchip](https://www.microchip.com/).
 
-*I do not know if these drivers will work on the newer iterations of the microcontroller! The drivers has currently only been tested on the [PIC18F26K22](https://www.microchip.com/en-us/product/PIC18F26K22).*
+*I do not know if these drivers will work on the newer iterations of the microcontroller! The drivers has currently only been tested on the [PIC18F26K22](https://www.microchip.com/en-us/product/PIC18F26K22). I cannot confirm if this is an issue as I haven't tested it yet.*
 
 Some of the drivers are from a school course on *digital- and microprocessor technology*. AND????
 
